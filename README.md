@@ -21,9 +21,8 @@
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 [<img align="left" alt="Ayush | LinkedIn" height="20px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Ayush | Twitter" height="20px" src="./SocialLogo/Twitter.png" />][twitter]
 [<img align="left" alt="Ayush | GitHub" height="20px" src="./SocialLogo/GitHub.png" />][github]
-[<img align="left" alt="Ayush | Medium" height="20px" src="./SocialLogo/Discord.png" />][discord]
+<!--[<img align="left" alt="Ayush | Medium" height="20px" src="./SocialLogo/Discord.png" />][discord] -->
 [<img align="left" alt="Ayush | Whatsapp" height="20px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
 [<img align="left" alt="Ayush | Instagram" height="20px" src="./SocialLogo/Instagram.png" />][instagram]
 [<img align="left" alt="Ayush | Gmail" height="20px" src="./SocialLogo/Gmail.png" />][gmail]
