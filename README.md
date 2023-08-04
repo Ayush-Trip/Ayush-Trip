@@ -22,7 +22,6 @@
 
 [<img align="left" alt="Ayush | LinkedIn" height="20px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 [<img align="left" alt="Ayush | GitHub" height="20px" src="./SocialLogo/GitHub.png" />][github]
-<!--[<img align="left" alt="Ayush | Medium" height="20px" src="./SocialLogo/Discord.png" />][discord] -->
 [<img align="left" alt="Ayush | Whatsapp" height="20px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
 [<img align="left" alt="Ayush | Instagram" height="20px" src="./SocialLogo/Instagram.png" />][instagram]
 [<img align="left" alt="Ayush | Gmail" height="20px" src="./SocialLogo/Gmail.png" />][gmail]
@@ -54,7 +53,6 @@
 </p>
 
 [linkedin]: https://www.linkedin.com/in/ayush-tripathi-762a57239/
-<!-- [discord]: https://discord.gg/Pranav#7513 -->
 [gmail]: mailto:ayushtripathi6198@gmail.com
 [whatsapp]: https://wa.me/6393174978
 [instagram]: https://www.instagram.com/_.a.y.u.s.h.h._
